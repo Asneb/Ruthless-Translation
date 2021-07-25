@@ -25,6 +25,6 @@
     <string name="fading_transition_desc">Ao abrir aplicativos</string>
     <string name="about_contact">Contato</string>
     <string name="about_donate_desc">Usando crédito do Play</string>
-    <string name="shadespace_text_charging">Cobrado em %1$d%%</string>
+    <string name="shadespace_text_charging">Carregado em %1$d%%</string>
     <string name="search_hidden">@string/search_hidden_global</string>
 </resources>
